@@ -30,3 +30,4 @@ python excel_duplicator_app.py
 ---
 
 **The app will open a GUI window for you to select files and folders.**
+**After running, the lookup Excel file will be updated: any product codes for which a source file was missing will be highlighted in yellow.**
